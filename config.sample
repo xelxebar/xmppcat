@@ -1,0 +1,4 @@
+[DEFAULT]
+host: irc.freenode.net
+user: my-username
+password: my-password
